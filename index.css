@@ -1,0 +1,38 @@
+.editor {
+	padding: 8px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+	display: inline-block;
+	min-width: 50%;
+}
+
+.editor textarea {
+	width: 100%;
+	border: 1px solid #CCC;
+}
+
+.editor .styles button {
+	width: calc(19% - 16px);
+	border: none;
+	padding: 0px;
+	margin: 0px;
+	display: inline-block;
+	background-color: #DDD;
+	padding: 4px 8px;
+	outline: none;
+	font-weight: bold;
+}
+
+.editor .show-preview {
+	width: calc(100% - 64px);
+	border: none;
+	padding: 4px 32px;
+	margin: 4px 0px;
+	background-color: #DDD;
+}
+
+.output {
+	padding: 8px;
+	box-shadow: 0px 0px 10px rgba(0,0,0,0.3);
+	display: inline-block;
+	min-width: 50%;
+}
