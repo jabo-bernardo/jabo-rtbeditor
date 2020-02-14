@@ -1,2 +1,2 @@
-# jabo-rtbeditor
- A rich text box editor made with HTML and JavaScript
+# Jabo RTBEDITOR
+This is a simple RichTextBox Editor that you can use on your own sites or for individual use. This editor has basic features for formatting a text and a little tricky to work on feel free to modify the code.
